@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 Olá, seja bem-vindo(a), sou Gessyca Oliveira, atualmente sou estudante de analises de dados.<br> <br>🗃️ Nestes repositórios você encontrará:<br>📊 - Projetos desenvolvidos nos cursos;<br>📖 - Materiais de estudos pessoal (compartilho o conhecimento que adquiri com os os cursos e pesquisas complementares).<br><br>🟢 Meu objetivo é trabalhar na área de analises de dados.
+😊 Olá, seja bem-vindo(a), sou Gessyca Oliveira, atualmente estou estudando analises de dados no Bootcamp da SoulCode Academy.<br> <br>🗃️ Nestes repositórios você encontrará:<br>📊 - Projetos desenvolvidos nos cursos;<br>📖 - Materiais de estudos pessoal (compartilho o conhecimento que adquiri com os os cursos e pesquisas complementares).<br><br>🟢 Meu objetivo é trabalhar na área de analises de dados.
 
 
 ## 🌐 Socials:
